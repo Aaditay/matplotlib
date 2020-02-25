@@ -1,5 +1,5 @@
 # Random Walk
-# install matplotlib - 
+### install matplotlib - 
 >pip install matplotlib
 
 **What's left**

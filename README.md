@@ -1,4 +1,4 @@
-# Random Walk
+# Random Walk ✌
 ### install matplotlib - 
 >pip install matplotlib
 
